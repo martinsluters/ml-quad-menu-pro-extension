@@ -1,0 +1,21 @@
+{
+    "name": "QuadMenu PRO Login Item Extension",
+    "description": "Overwrites functionality of QuadMenu and QuadMenu PRO's Login Menu Item",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Martins Luters",
+            "email": "luters.martins@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "require-dev": {
+        "wp-coding-standards/wpcs": "^2.2",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.6.2"
+    },
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
