@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: QuadMenu PRO Login Item Extension
- * Description: Overwrites display and functionality of QuadMenu (v1.9.0) and QuadMenu PRO (v1.8.4) Login Item
+ * Description: Overwrites functionality of QuadMenu and QuadMenu PRO's Login Menu Item
  * Plugin URI: https://github.com/martinsluters
  * Author: Martins Luters
  * Author URI: https://github.com/martinsluters
